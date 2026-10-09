@@ -1,0 +1,105 @@
+{
+  "epoch": "2026-01-01T00:00:00Z",
+  "tracks": [
+    {
+      "title": "8",
+      "duration": 224.359979,
+      "file": "01.mp3"
+    },
+    {
+      "title": "Above_the_Midnight_Rain",
+      "duration": 173.583625,
+      "file": "02.mp3"
+    },
+    {
+      "title": "After_the_Midnight_Rain",
+      "duration": 173.40075,
+      "file": "03.mp3"
+    },
+    {
+      "title": "Alder Moon Caravan",
+      "duration": 287.4135,
+      "file": "04.mp3"
+    },
+    {
+      "title": "All Hail Illphated",
+      "duration": 220.479979,
+      "file": "05.mp3"
+    },
+    {
+      "title": "All Hail Illphated_1",
+      "duration": 212.079979,
+      "file": "06.mp3"
+    },
+    {
+      "title": "Ashlands March",
+      "duration": 225.5335,
+      "file": "07.mp3"
+    },
+    {
+      "title": "Asphalt_at_Midnight",
+      "duration": 169.482375,
+      "file": "08.mp3"
+    },
+    {
+      "title": "Atrium Rainfall",
+      "duration": 195.999979,
+      "file": "09.mp3"
+    },
+    {
+      "title": "Baltimore Gone",
+      "duration": 284.479979,
+      "file": "10.mp3"
+    },
+    {
+      "title": "Basement Stairs",
+      "duration": 229.999979,
+      "file": "11.mp3"
+    },
+    {
+      "title": "Brass In Ash",
+      "duration": 219.879979,
+      "file": "12.mp3"
+    },
+    {
+      "title": "Brass Over Brass",
+      "duration": 355.519979,
+      "file": "13.mp3"
+    },
+    {
+      "title": "Brass Over Brassworks",
+      "duration": 348.879979,
+      "file": "14.mp3"
+    },
+    {
+      "title": "Brass and Gears",
+      "duration": 448.679979,
+      "file": "15.mp3"
+    },
+    {
+      "title": "Brass in the Gears",
+      "duration": 319.919979,
+      "file": "16.mp3"
+    },
+    {
+      "title": "Brass of the Clockworks",
+      "duration": 174.879979,
+      "file": "17.mp3"
+    },
+    {
+      "title": "Canada Gone",
+      "duration": 262.799979,
+      "file": "18.mp3"
+    },
+    {
+      "title": "Cinder Relay",
+      "duration": 268.999979,
+      "file": "19.mp3"
+    },
+    {
+      "title": "Clockwork Overture",
+      "duration": 281.679979,
+      "file": "20.mp3"
+    }
+  ]
+}
